@@ -14,13 +14,13 @@ body {
 .polls-wrapper {
     background-color: #fff;
     padding: 20px;
-    margin: 20px;
-    display: inline-block;
+    display: block;
+    margin: 200px auto;
+    width: 300px;    
 }
 
 .polls-wrapper ul {
     list-style: none;
-    text-align: center;
     margin: 0;
     padding: 0;
 }
